@@ -18,3 +18,20 @@
   height: 25rem;
   width: auto;
 }
+
+.col-md-6.col-lg-4.skillz {
+  flex: 0 0 12.5%;
+  max-width: 12.5%;
+}
+
+
+.col-md-6.col-lg-4.skillz p {
+  background: white;
+  /* color: #1abc9c */
+  color: #2c3e50;
+  font-size: 18px;
+  font-family: Montserrat,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-weight: 700;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
